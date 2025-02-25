@@ -47,3 +47,16 @@ QR Code API: Secure, lightweight QR code generation
 Deployment: Cloud-hosted for accessibility
 
 🚀 ResQ aims to revolutionize healthcare accessibility by leveraging AI and smart QR-based patient data management, ensuring seamless and efficient medical care for all.
+
+
+Architecture diagram:
+
+https://drive.google.com/file/d/11FAvMs4PAV1Vd3oO4rsdzn0p9TOsCFQO/view?usp=sharing
+
+Flow chart:
+
+https://drive.google.com/file/d/1lqxAvkSGiFTOXGou9hrRS2LFsoLzGgBf/view?usp=sharing
+
+Wireframes:
+
+https://drive.google.com/file/d/1Zs0DVtF9rMOMTWF68ZgAZ-Y_6SDQSrFs/view?usp=sharing
