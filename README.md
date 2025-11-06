@@ -1,9 +1,21 @@
+
 # 🏥 ResQ – AI-Powered QR-Based Healthcare System 🔍
 
-ResQ is an **AI-driven healthcare management system** that leverages **QR codes, OpenAI-powered summarization**, and **intelligent document verification** to streamline patient data retrieval, diagnosis storage, and appointment scheduling.  
+> AI-powered rural healthcare management system using QR codes, offline access, and OpenAI-driven record summarization.
 
-Designed for **low-internet rural environments**, ResQ enables **offline-accessible medical records** for doctors and **secure QR-linked medical profiles** for patients, ensuring fast, safe, and efficient healthcare delivery anywhere.
+---
 
+## 🎥 Demo & Screenshots
+
+### 📹 Video Demo
+[▶️ Watch the demo on Youtube](https://www.youtube.com/watch?v=OJxk7302Srs)
+
+### 🖼️ Screenshots
+| Dashboard | Patient QR | AI Summary |
+|------------|-------------|-------------|
+| ![Dashboard](https://drive.google.com/file/d/18X_l748B-0C4dcbajlqFOlye1Y5uTygz/view?usp=sharing) | ![QR](https://drive.google.com/file/d/1JMUc9geWBb0Nxh9f48-0aeU80tR9xEmn/view?usp=sharing) | ![AI Summary](https://drive.google.com/file/d/1VDud_p8u68POSMhYHg9dv4iNrfqLBAl1/view?usp=sharing) |
+
+---
 ---
 
 ## 🚀 Overview
