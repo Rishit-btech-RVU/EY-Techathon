@@ -1,21 +1,14 @@
 
-# 🏥 ResQ – AI-Powered QR-Based Healthcare System 🔍
-
-> AI-powered rural healthcare management system using QR codes, offline access, and OpenAI-driven record summarization.
-
----
-
 ## 🎥 Demo & Screenshots
 
 ### 📹 Video Demo
-[▶️ Watch the demo on Youtube](https://www.youtube.com/watch?v=OJxk7302Srs)
+[▶️ Watch the demo on YouTube](https://www.youtube.com/watch?v=OJxk7302Srs)
 
 ### 🖼️ Screenshots
 | Dashboard | Patient QR | AI Summary |
 |------------|-------------|-------------|
-| ![Dashboard](https://drive.google.com/file/d/18X_l748B-0C4dcbajlqFOlye1Y5uTygz/view?usp=sharing) | ![QR](https://drive.google.com/file/d/1JMUc9geWBb0Nxh9f48-0aeU80tR9xEmn/view?usp=sharing) | ![AI Summary](https://drive.google.com/file/d/1VDud_p8u68POSMhYHg9dv4iNrfqLBAl1/view?usp=sharing) |
+| ![Dashboard](https://drive.google.com/uc?export=view&id=18X_l748B-0C4dcbajlqFOlye1Y5uTygz) | ![QR](https://drive.google.com/uc?export=view&id=1JMUc9geWBb0Nxh9f48-0aeU80tR9xEmn) | ![AI Summary](https://drive.google.com/uc?export=view&id=1VDud_p8u68POSMhYHg9dv4iNrfqLBAl1) |
 
----
 ---
 
 ## 🚀 Overview
